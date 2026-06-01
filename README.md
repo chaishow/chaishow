@@ -35,15 +35,12 @@
 ### Core & Frameworks
 
 <p>
-
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django_REST-1F3B5B?style=for-the-badge&logo=django&logoColor=white" />
   <img src="https://img.shields.io/badge/asyncio-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-
   <img src="https://img.shields.io/badge/gRPC-244C5A?style=for-the-badge&logo=grpc&logoColor=white" />
-
 </p>
 
 
@@ -51,17 +48,12 @@
 ### Databases & Caching
 
 <p>
-
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-
   <img src="https://img.shields.io/badge/SQLAlchemy-D12127?style=for-the-badge&logo=sequelize&logoColor=white" />
-
+  <img src="https://img.shields.io/badge/Django_ORM-1F3B5B?style=for-the-badge&logo=django&logoColor=white" />
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
-
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-
   <img src="https://img.shields.io/badge/ClickHouse-FCE500?style=for-the-badge&logo=clickhouse&logoColor=black" />
-
 </p>
 
 
